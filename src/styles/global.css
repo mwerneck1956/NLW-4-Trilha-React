@@ -1,4 +1,4 @@
-:root{
+ :root{
     --white : #fff;
     --background : #F2F3F5; 
     --gray-line : #DCDDE0;
@@ -10,6 +10,7 @@
     --blue : #5965E0;
     --blue-dark : #4953B8;
     --blue-twitter : #2AA9E0;
+    --navbar-bg : #
 }
 
 @media(max-width : 1080px){
